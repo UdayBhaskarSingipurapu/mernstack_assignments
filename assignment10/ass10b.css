@@ -83,7 +83,7 @@
  @media screen and  (max-width : 320px) {
     .box1, .box2 {
         padding-bottom: 250vw;
-        height: 100vw;
+       
     }
     .main {
         display: flex;
@@ -95,6 +95,9 @@
     .b2img {
         width: 100px;
         height: 24vw;
+    }
+     .im {
+        width: 180px;
     }
 }
 @media screen and (min-width : 320.01px) and (max-width : 390px)  {
